@@ -1,7 +1,7 @@
 /*
   Version     : 1.0 
   Autor       : Claudio Arancibia
-  Empresa     : InnovaCORE
+  Empresa     : IOTechnology
   Fecha       : 02-06-2019
   Descripcion : Version basica de sistema de Hidroponia/Aeroponia
                 Cargar sobre Arduino Uno con Rele Shield 
